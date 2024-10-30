@@ -26,6 +26,6 @@ Once you have one of the application in the prerequisties installed you can use 
 
   Click on the debug.py file above.
 
-  #Thanks
+  # Thanks
   Thanks to XYZ company and their staff, hulkingopossum, for helping me with my code!
   
